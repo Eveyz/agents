@@ -1,0 +1,3 @@
+name: sub_agent_2
+agent_class: SequentialAgent
+sub_agents: []
